@@ -1,0 +1,4 @@
+train: data_img/train
+val : data_img/test
+nc : 1
+names : [ 'pothole' ]
